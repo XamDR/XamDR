@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max Díaz.
 - 👀 I’m interested in Software development, and in particular in Android development.
-- 🌱 I’m currently learning Flutter and Go.
+- 🌱 I’m currently learning backend development, more exactly Node.js and Express.
 - 💞️ I’m looking to collaborate on open source projects related to native Android development.
 - 📫 How to reach me: email me at maxdr.mat@gmail.com.
 
